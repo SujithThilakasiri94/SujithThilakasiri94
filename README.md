@@ -2,7 +2,7 @@
 - 👀 I’m interested in Fullstack Web Developing.
 - 🌱 I’m currently undergraduate at SLIIT.
 - 🌱 Actually, I am on a never-ending learning curve.
-- 💞️ I’m looking to collaborate on Web Develpimg.
+- 💞️ I’m looking to collaborate on Web Develping.
 - 📫 want to reach me ?
 -   Sujithtilakasiri@outlook.com
 -   www.linkedin.com/in/sujith-thilaksiri
