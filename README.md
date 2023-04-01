@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sujith Thilakasiri.
 - 👀 I’m interested in Fullstack Web Developing.
-- 🌱 I’m currently undergraduate at SLIIT.
+- 🌱 I’m a graduate of SLIIT.
 - 🌱 Actually, I am on a never-ending learning curve.
 - 💞️ I’m looking to collaborate on Web Develping.
 - 📫 want to reach me ?
