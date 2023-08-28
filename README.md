@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/SujithThilakasiri94/github_configs/blob/master/readMeConfigs/github_banner.png)]
+![MasterHead](https://github.com/SujithThilakasiri94/github_configs/blob/master/readMeConfigs/github_banner.png)
 <h1 align="center">Hi 👋, I'm Sujith Thilakasiri</h1>
 <h3 align="center">A passionate Full Stack developer</h3>
 <img align="right" width="400" src="https://github.com/SujithThilakasiri94/github_configs/blob/master/readMeConfigs/programmer.gif" alt="">
