@@ -15,7 +15,8 @@
 <a href = "mailto:sujiththilakasiri@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div><h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codesandbox.com/https://codesandbox.io/u/SujithThilakasiri94" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/codesandbox.svg" alt="https://codesandbox.io/u/SujithThilakasiri94" height="30" width="40" /></a><a href="https://linkedin.com/in/https://linkedin.com/in/www.linkedin.com/in/sujith-thilaksiri" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="https://linkedin.com/in/www.linkedin.com/in/sujith-thilaksiri" height="30" width="40" /></a></p>
+<a href="https://codesandbox.com/https://codesandbox.io/u/SujithThilakasiri94" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/codesandbox.svg" alt="https://codesandbox.io/u/SujithThilakasiri94" height="30" width="40" /></a><a href="https://linkedin.com/in/https://linkedin.com/in/www.linkedin.com/in/sujith-thilaksiri" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="https://linkedin.com/in/www.linkedin.com/in/sujith-thilaksiri" height="30" width="40" /></a></p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -48,7 +49,7 @@
 
 <h3 align="left">Stars</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SujithThilakasiri94&layout=compact&theme=dark" alt=SujithThilakasiri94 />
-<img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SujithThilakasiri94&theme=dark" alt="SujithThilakasiri94" />
+<img align="right" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SujithThilakasiri94&theme=dark" alt="SujithThilakasiri94" />
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
