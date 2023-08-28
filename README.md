@@ -1,7 +1,7 @@
-![MasterHead](https://github.com/SujithThilakasiri94/github_configs/blob/master/readMeConfigs/github_banner.png)
+<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 
 <h1 align="center">Hi 👋, I'm Sujith Thilakasiri</h1>
-<h3 align="center">Software Engineer</h3>
+<h3 align="center">A passionate full stack developer from Sri Lanka</h3>
 <img align="right" width="300" src="https://github.com/SujithThilakasiri94/github_configs/blob/master/readMeConfigs/programmer.gif" alt="programmer.gif">
 
 - 🌱 I’m currently learning - **Angular**
@@ -54,12 +54,12 @@
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SujithThilakasiri94&theme=dark" alt="SujithThilakasiri94" /></p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
-
 <div align="center">
 <a href="https://github.com/SujithThilakasiri94">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SujithThilakasiri94&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SujithThilakasiri94&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SujithThilakasiri94&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SujithThilakasiri94&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SujithThilakasiri94&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SujithThilakasiri94&theme=bear" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SujithThilakasiri94&theme=bear" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SujithThilakasiri94&theme=bear" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SujithThilakasiri94&theme=bear" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SujithThilakasiri94&theme=bear" height="180em" />
 </div>
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
